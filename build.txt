@@ -1,0 +1,6 @@
+displayName = Random Font Mod
+author = Shinx
+version = 1.0
+includeSource = true
+includePDB = true
+homepage = https://github.com/mrshinx/Random-Font-Mod
