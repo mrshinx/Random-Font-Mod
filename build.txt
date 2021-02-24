@@ -3,4 +3,3 @@ author = Shinx
 version = 1.01
 includeSource = true
 includePDB = true
-homepage = https://github.com/mrshinx/Random-Font-Mod
