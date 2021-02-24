@@ -1,1 +1,2 @@
 This mod replaces vanilla font with "better" font. Made for me and my friends.
+Code learned from Mirsario's Better Russian Font mod.
